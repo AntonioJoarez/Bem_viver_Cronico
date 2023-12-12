@@ -1,0 +1,14 @@
+Prioridade: 0 | 10
+
+1 - Fazer a agenda funcionar (10)
+2 - Terminar ao menos 3 doenças (8)
+3 - Ajustar responsividade (7)
+4 - Separar playlist de 3 doenças (10)
+5 - Subir no VERCEL (10)
+
+
+Playlist de vídeos: 
+Diabetes: https://www.youtube.com/watch?v=Rv58xmMMx5M&list=PL64CXaqYSyJBUaUzIy-ilOlL80uoM2GAf&pp=gAQBiAQB
+Câncer: 
+Obesidade: 
+Playlist Pocasts: 
