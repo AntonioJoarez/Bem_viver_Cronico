@@ -16,8 +16,6 @@ export default function Diabetes() {
         <br />
         <CardVideos />
       </div>
-      <div className="absolute top-56 left-10 w-full h-full flex items-center">
-      </div>
     </main>
   );
 }

@@ -1,5 +1,4 @@
 
-
 import NavBar from "../components/NavBar";
 import CardIntroC from "./CardIntroC";
 import CardPodcasts from "./CardPodcastsC";
@@ -16,8 +15,6 @@ export default function Cancer() {
         <CardPodcasts/>
         <br />
         <CardVideos/>
-      </div>
-      <div className="absolute top-56 left-10 w-full h-full flex items-center">
       </div>
     </main>
   );
